@@ -5,7 +5,7 @@ This project predicts whether a person would have survived the Titanic disaster 
 ## Files
 
 - `gradio_interface.py`: Script to launch the Gradio interface.
-- `project_notebook.ipynb`: Jupyter Notebook containing the project code and explanation.
+- `Titanic_Survival_Prediction.ipynb`: Jupyter Notebook containing the project code and explanation.
 
 ## Setup
 
